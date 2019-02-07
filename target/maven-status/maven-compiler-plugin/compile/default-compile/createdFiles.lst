@@ -1,0 +1,11 @@
+com\example\springboot\repository\PhotoRepositoryImpl.class
+com\example\springboot\model\Photo.class
+com\example\springboot\controllers\MyRestController.class
+com\example\springboot\services\impl\MyService.class
+com\example\springboot\services\impl\MyModel.class
+com\example\springboot\repository\PhotoRepositoryImpl$1.class
+com\example\springboot\repository\IPhotoRepository.class
+com\example\springboot\application\SpringbootApplication.class
+com\example\springboot\model\RequestData.class
+com\example\springboot\services\IService.class
+com\example\springboot\configuration\MyConfigure.class

@@ -1,0 +1,8 @@
+node {
+  stage ('check out') {
+     git 'https://github.com/soniadas/my-app'
+  }
+  stage ('compile and package') {
+   sh 'mvn package'
+  }
+}

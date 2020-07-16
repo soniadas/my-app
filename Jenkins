@@ -3,6 +3,6 @@ node {
      git 'https://github.com/soniadas/my-app'
   }
   stage ('compile and package') {
-   sh 'mvn -X package'
+   sh '/usr/local/Cellar/maven/3.6.3_1/libexec/bin/mvn -X package'
   }
 }
